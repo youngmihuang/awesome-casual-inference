@@ -68,10 +68,6 @@ Mainly listed python package.
 | A Survey on Causal Inference                                 | Liuyi Yao         | 2020 | [[PDF]](https://arxiv.org/pdf/2002.02770.pdf)                |
 | Causal inference in statistics: An overview                  | Judea Pearl       | 2005 | [[PDF]](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)       |
 | What are the most important statistical ideas of the past 50 years? | Andrew Gelman     | 2021 | [PDF](https://arxiv.org/pdf/2012.00174.pdf)                  |
-|                                                              |                   |      |                                                              |
-|                                                              |                   |      |                                                              |
-|                                                              |                   |      |                                                              |
-|                                                              |                   |      |                                                              |
 
 
 
